@@ -121,3 +121,60 @@
 [NotebookApp | INFO] Shutting down 2 kernels
 [NotebookApp | INFO] Kernel shutdown: 3459e7ac-0929-4ee2-b59b-073b232aac0e
 [NotebookApp | INFO] Kernel shutdown: 0c319942-91bc-44e4-88b5-933ffa065100
+[LabApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[LabApp | INFO] Loading the validate_assignment nbgrader serverextension
+[LabApp | WARNING] JupyterLab server extension not enabled, manually loading...
+[LabApp | INFO] JupyterLab extension loaded from /Users/bstone/Library/Python/3.7/lib/python/site-packages/jupyterlab
+[LabApp | INFO] JupyterLab application directory is /Users/bstone/Library/Python/3.7/share/jupyter/lab
+[LabApp | INFO] Serving notebooks from local directory: /Users/bstone/GitHub/calc1-notebooks
+[LabApp | INFO] The Jupyter Notebook is running at:
+[LabApp | INFO] http://localhost:8888/?token=fa7ec0764ce9b3006e018b35f1d10c9ccdc30be338506ed6
+[LabApp | INFO]  or http://127.0.0.1:8888/?token=fa7ec0764ce9b3006e018b35f1d10c9ccdc30be338506ed6
+[LabApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[LabApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/bstone/Library/Jupyter/runtime/nbserver-34724-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=fa7ec0764ce9b3006e018b35f1d10c9ccdc30be338506ed6
+     or http://127.0.0.1:8888/?token=fa7ec0764ce9b3006e018b35f1d10c9ccdc30be338506ed6
+[LabApp | INFO] Build is up to date
+[LabApp | WARNING] 404 GET /api/contents/Resources/Housing-Project?1568197986405 (::1): No such file or directory: Resources/Housing-Project
+[LabApp | WARNING] No such file or directory: Resources/Housing-Project
+[LabApp | WARNING] 404 GET /api/contents/Resources/Housing-Project?1568197986405 (::1) 8.72ms referer=http://localhost:8888/lab
+[LabApp | WARNING] 404 GET /api/contents/Untitled.ipynb?content=0&1568197986407 (::1): No such file or directory: Untitled.ipynb
+[LabApp | WARNING] No such file or directory: Untitled.ipynb
+[LabApp | WARNING] 404 GET /api/contents/Untitled.ipynb?content=0&1568197986407 (::1) 8.94ms referer=http://localhost:8888/lab
+[LabApp | WARNING] 404 GET /api/contents/Projects/2019-Fall/Project01/housing_lecture_02.ipynb?content=0&1568197986409 (::1): No such file or directory: Projects/2019-Fall/Project01/housing_lecture_02.ipynb
+[LabApp | WARNING] No such file or directory: Projects/2019-Fall/Project01/housing_lecture_02.ipynb
+[LabApp | WARNING] 404 GET /api/contents/Projects/2019-Fall/Project01/housing_lecture_02.ipynb?content=0&1568197986409 (::1) 13.34ms referer=http://localhost:8888/lab
+[LabApp | WARNING] 404 GET /api/contents/Projects/2019-Fall/Project01/train_test_creatiion.ipynb?content=0&1568197986411 (::1): No such file or directory: Projects/2019-Fall/Project01/train_test_creatiion.ipynb
+[LabApp | WARNING] No such file or directory: Projects/2019-Fall/Project01/train_test_creatiion.ipynb
+[LabApp | WARNING] 404 GET /api/contents/Projects/2019-Fall/Project01/train_test_creatiion.ipynb?content=0&1568197986411 (::1) 16.51ms referer=http://localhost:8888/lab
+[LabApp | WARNING] 404 GET /api/contents/Resources/Housing-Project/housing_lecture_01.ipynb?content=0&1568197986412 (::1): No such file or directory: Resources/Housing-Project/housing_lecture_01.ipynb
+[LabApp | WARNING] No such file or directory: Resources/Housing-Project/housing_lecture_01.ipynb
+[LabApp | WARNING] 404 GET /api/contents/Resources/Housing-Project/housing_lecture_01.ipynb?content=0&1568197986412 (::1) 20.44ms referer=http://localhost:8888/lab
+[LabApp | INFO] Creating new notebook in /
+[LabApp | INFO] Kernel started: 89be7a97-08e0-4ab0-be05-c0e6809029dd
+[LabApp | INFO] Saving file at /Activity.ipynb
+[LabApp | INFO] Saving file at /Activity.ipynb
+[LabApp | INFO] Saving file at /Activity.ipynb
+[LabApp | INFO] Saving file at /Activity.ipynb
+[LabApp | INFO] Saving file at /Activity.ipynb
+[LabApp | INFO] Saving file at /Activity.ipynb
+[LabApp | INFO] Kernel started: 0e9bae0c-efc5-43a6-ae6e-394ec0e1ce96
+[LabApp | INFO] Saving file at /Activity.ipynb
+[LabApp | INFO] Saving file at /Activity.ipynb
+[LabApp | INFO] Saving file at /Activity.ipynb
+[LabApp | INFO] Saving file at /Activity.ipynb
+[LabApp | INFO] Saving file at /Activity-1-5-2.ipynb
+[LabApp | INFO] Kernel restarted: 89be7a97-08e0-4ab0-be05-c0e6809029dd
+[LabApp | INFO] Saving file at /Activity-1-5-2.ipynb
+[LabApp | INFO] Saving file at /Activity-1-5-2.ipynb
+[LabApp | INFO] Starting buffering for 89be7a97-08e0-4ab0-be05-c0e6809029dd:0d52042d-533a-473f-b00e-bebe749d7702
+[LabApp | INFO] Starting buffering for 0e9bae0c-efc5-43a6-ae6e-394ec0e1ce96:c804f9ea-1da0-412b-8239-5e3986ca8be3
+[LabApp | INFO] interrupted
+[LabApp | CRITICAL] Shutdown confirmed
+[LabApp | INFO] Shutting down 2 kernels
+[LabApp | INFO] Kernel shutdown: 89be7a97-08e0-4ab0-be05-c0e6809029dd
+[LabApp | INFO] Kernel shutdown: 0e9bae0c-efc5-43a6-ae6e-394ec0e1ce96
